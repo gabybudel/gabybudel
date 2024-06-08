@@ -30,7 +30,7 @@ I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from
 - Budel, G., P. Van Mieghem, and M. Kitsak (2024). Complementarity Random Graph Model.
 
 ## Ph.D. Thesis
-- Budel, G.J.A. (2024). [Complementarity and Similarity in Complex Networks](https://doi.org/10.4233/uuid:404db306-a85f-46ac-80d0-ba2a4f24a26e)
+- Budel, G.J.A. (2024). [Complementarity and Similarity in Complex Networks](https://doi.org/10.4233/uuid:404db306-a85f-46ac-80d0-ba2a4f24a26e).
 
 ## Presentations
 
