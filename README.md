@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Gabriel Budel
 
-I am a recent Ph.D. graduate from TU Delft in Artificial Intelligence and Network Science. My research focuses on embeddings of complex networks and the roles of complementarity and similarity in these network embeddings, with applications in semantic networks and NLP. My research interests include data science, artificial intelligence, machine learning, network embeddings, and hyperbolic graphs.
+I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from TU Delft. My research focuses on embeddings of complex networks and the roles of complementarity and similarity in these network embeddings, with applications in semantic networks and NLP. My research interests include data science, artificial intelligence, machine learning, network embeddings, and hyperbolic graphs.
 
 ## Publications
 
