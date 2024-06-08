@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 -->
 # Gabriel Budel
 
-I am a Ph.D. graduate from NAS in the NExTWORKx program of TU Delft and KPN. My research focuses on complementarity and similarity in complex networks and their application to semantic networks. I am very interested in data science, artificial intelligence, machine learning, network embeddings, and hyperbolic graphs.
+I am a recent Ph.D. graduate from TU Delft in Artificial Intelligence and Network Science. My research focuses on embeddings of complex networks and the role of complementarity and similarity in these network embeddings, with applications in semantic networks and NLP. My research interests in data science, artificial intelligence, machine learning, network embeddings, and hyperbolic graphs.
 
 ## Publications
 
 - Budel, G., M. Kitsak, R. Aldecoa, K. Zuev, and D. Krioukov (2024). [Random hyperbolic graphs in d+1 dimensions](https://doi.org/10.1103/PhysRevE.109.054131). *Physical Review E*, **109**(5), 054131.
-- Budel, G., F. Frasincar, and D. Boekestijn (2024). [DBHC: Discrete Bayesian HMM Clustering](https://doi.org/10.1007/s13042-024-02102-w). *International Journal of Machine Learning and Cybernetics*.
+- Budel, G., F. Frasincar, and D. Boekestijn (2024). [DBHC: Discrete Bayesian HMM Clustering](https://doi.org/10.1007/s13042-024-02102-w). *International Journal of Machine Learning and Cybernetics*, 1-16.
 - Budel, G., Y. Jin, P. Van Mieghem, and M. Kitsak (2023). [Topological properties and organizing principles of semantic networks](https://doi.org/10.1038/s41598-023-37294-8). *Nature Scientific Reports* **13**(1), 11728.
 - Budel, G., and P. Van Mieghem (2020). [Detecting the number of clusters in a network](https://doi.org/10.1093/comnet/cnaa047). *Journal of Complex Networks*, **8**(6), cnaa047.
 - Budel, G., L. Hoogenboom, W. Kastrop, N. Reniers, and F. Frasincar (2018). [Predicting user flight preferences in an airline E-shop](https://doi.org/10.1007/978-3-319-91662-0_19). In: Mikkonen T., Klamma R., Hernández J. (eds) Web Engineering. ICWE 2018. Lecture Notes in Computer Science, vol 10845. Springer, Cham.
 
 ## Working Papers
 
-- Budel, G., and M. Kitsak (2023). [Complementarity in Complex Networks](https://arxiv.org/abs/2003.06665). arXiv preprint arXiv:2003.06665.
-- Budel, G., P. Van Mieghem, and M. Kitsak (2023). Complementarity Random Graph Model.
+- Budel, G., and M. Kitsak (2024). [Complementarity in Complex Networks](https://arxiv.org/abs/2003.06665). arXiv preprint arXiv:2003.06665.
+- Budel, G., P. Van Mieghem, and M. Kitsak (2024). Complementarity Random Graph Model.
 
 ## Presentations
 
@@ -45,7 +45,7 @@ I am a Ph.D. graduate from NAS in the NExTWORKx program of TU Delft and KPN. My 
 
 **2019 - 2024**  
 Delft University of Technology, Network Architecture and Services, Delft, The Netherlands  
-PhD in Artificial Intelligence Networking  
+Ph.D. in Artificial Intelligence and Network Science  
 In collaboration with KPN in the NExTWORKx program  
 
 **2018 - 2019**  
@@ -68,7 +68,6 @@ Major in Business Analytics & Quantitative Marketing
 
 ## Contact
 
-- **Email:** G.J.A.Budel (at) tudelft.nl  
-- **Address:** HB 09.260, Mekelweg 4, 2628 CD, Delft, The Netherlands
+- **Email:** <a href="mailto:gabybudel&#64;gmail&#46;com">gabybudel&#64;gmail&#46;com</a>
 
-[Google Scholar](https://scholar.google.com) | [ORCID iD](https://orcid.org)
+[Google Scholar](https://scholar.google.com/citations?user=YcPZvyUAAAAJ&hl=en&oi=ao) | [ORCID iD](https://orcid.org/0000-0003-0622-6492)
