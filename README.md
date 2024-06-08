@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 # Gabriel Budel
 
-I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from TU Delft. My Ph.D. research focuses on embeddings of complex networks and the roles of complementarity and similarity in these network embeddings, with applications in semantic networks and NLP. My research interests include data science, artificial intelligence, machine learning, network embeddings, and hyperbolic graphs.
+I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from TU Delft. My Ph.D. research focuses on embeddings of complex networks and the roles of complementarity and similarity in these embeddings, with applications to semantic networks and NLP. My research interests include data science, artificial intelligence, machine learning, network embeddings, and hyperbolic graphs.
 
 ## Publications
 
 - Budel, G., M. Kitsak, R. Aldecoa, K. Zuev, and D. Krioukov (2024). [Random hyperbolic graphs in d+1 dimensions](https://doi.org/10.1103/PhysRevE.109.054131). *Physical Review E* **109**(5), 054131.
 - Budel, G., F. Frasincar, and D. Boekestijn (2024). [DBHC: Discrete Bayesian HMM Clustering](https://doi.org/10.1007/s13042-024-02102-w). *International Journal of Machine Learning and Cybernetics*, 1-16.
 - Budel, G., Y. Jin, P. Van Mieghem, and M. Kitsak (2023). [Topological properties and organizing principles of semantic networks](https://doi.org/10.1038/s41598-023-37294-8). *Nature Scientific Reports* **13**(1), 11728.
-- Budel, G., and P. Van Mieghem (2020). [Detecting the number of clusters in a network](https://doi.org/10.1093/comnet/cnaa047). *Journal of Complex Networks* **8**(6), cnaa047.
+- Budel, G. and P. Van Mieghem (2020). [Detecting the number of clusters in a network](https://doi.org/10.1093/comnet/cnaa047). *Journal of Complex Networks* **8**(6), cnaa047.
 - Budel, G., L. Hoogenboom, W. Kastrop, N. Reniers, and F. Frasincar (2018). [Predicting user flight preferences in an airline E-shop](https://doi.org/10.1007/978-3-319-91662-0_19). In: Mikkonen T., Klamma R., Hernández J. (eds) Web Engineering. ICWE 2018. Lecture Notes in Computer Science, vol 10845. Springer, Cham.
 
 ## Working Papers
