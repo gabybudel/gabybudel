@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Gabriel Budel
 
-I am a recent Ph.D. graduate from TU Delft in Artificial Intelligence and Network Science. My research focuses on embeddings of complex networks and the role of complementarity and similarity in these network embeddings, with applications in semantic networks and NLP. My research interests in data science, artificial intelligence, machine learning, network embeddings, and hyperbolic graphs.
+I am a recent Ph.D. graduate from TU Delft in Artificial Intelligence and Network Science. My research focuses on embeddings of complex networks and the roles of complementarity and similarity in these network embeddings, with applications in semantic networks and NLP. My research interests include data science, artificial intelligence, machine learning, network embeddings, and hyperbolic graphs.
 
 ## Publications
 
@@ -26,8 +26,11 @@ I am a recent Ph.D. graduate from TU Delft in Artificial Intelligence and Networ
 
 ## Working Papers
 
-- Budel, G., and M. Kitsak (2024). [Complementarity in Complex Networks](https://arxiv.org/abs/2003.06665). arXiv preprint arXiv:2003.06665.
+- Budel, G., and M. Kitsak (2024). [Complementarity in Complex Networks](https://arxiv.org/abs/2003.06665). *arXiv preprint arXiv:2003.06665*.
 - Budel, G., P. Van Mieghem, and M. Kitsak (2024). Complementarity Random Graph Model.
+
+## Ph.D. Thesis
+- Budel, G.J.A. (2024). [Complementarity and Similarity in Complex Networks](https://doi.org/10.4233/uuid:404db306-a85f-46ac-80d0-ba2a4f24a26e)
 
 ## Presentations
 
@@ -68,6 +71,6 @@ Major in Business Analytics & Quantitative Marketing
 
 ## Contact
 
-- **Email:** <a href="mailto:gabybudel&#64;gmail&#46;com">gabybudel&#64;gmail&#46;com</a>
+- **Email:** <a href="mailto:gjabudel&#64;gmail&#46;com">gjabudel&#64;gmail&#46;com</a>
 
 [Google Scholar](https://scholar.google.com/citations?user=YcPZvyUAAAAJ&hl=en&oi=ao) | [ORCID iD](https://orcid.org/0000-0003-0622-6492)
