@@ -35,13 +35,13 @@ I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from
 ## Presentations
 
 - Complementarity vs. Similarity in Semantic Networks, regular talk at NetSci 2023, Vienna, Austria, July 2023.
-- Random Hyperbolic Graphs in d+1 Dimensions, regular talk at the 10th International Conference on Complex Networks and their Applications, Madrid, Spain, December 2021.
+- Random Hyperbolic Graphs in *d* + 1 Dimensions, regular talk at the 10th International Conference on Complex Networks and their Applications, Madrid, Spain, December 2021.
 - Predicting User Flight Preferences in an Airline E-Shop, full paper at the 18th International Conference on Web Engineering 2018, Cáceres, Spain, June 2018.
 
 ## Software
 
-- Budel, G., and M. Kitsak (2022), RHG Generator, Bitbucket: [https://bitbucket.org/gbudel/rhg-generator/](https://bitbucket.org/gbudel/rhg-generator/).
-- Budel, G., and F. Frasincar (2018), DBHC package, CRAN: [https://cran.r-project.org/web/packages/DBHC/](https://cran.r-project.org/web/packages/DBHC/).
+- Budel, G. and M. Kitsak (2022), RHG Generator, Bitbucket: [https://bitbucket.org/gbudel/rhg-generator/](https://bitbucket.org/gbudel/rhg-generator/).
+- Budel, G. and F. Frasincar (2018), DBHC package, CRAN: [https://cran.r-project.org/web/packages/DBHC/](https://cran.r-project.org/web/packages/DBHC/).
 - Budel, G. (2018), FX Trading NEAT, GitHub: [https://github.com/gabybudel/FXTradingNEAT](https://github.com/gabybudel/FXTradingNEAT).
 
 ## Education
