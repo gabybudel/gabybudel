@@ -51,22 +51,22 @@ Delft University of Technology, Network Architecture and Services, Delft, The Ne
 2019 - 2024  
 In collaboration with KPN in the NExTWORKx program  
 
-**2018 - 2019**  
+**Advanced Language Program Mandarin Chinese (non-degree)**  
 Fudan University, Shanghai, China  
-Advanced Language Program Mandarin Chinese (non-degree)  
+2018 - 2019  
 
-**2017 - 2018**  
+**MSc in Finance & Investments**  
 Rotterdam School of Management, Rotterdam, The Netherlands  
-MSc in Finance & Investments  
+2017 - 2018  
 
-**2016 - 2018**  
+**MSc in Econometrics & Management Science**  
 Erasmus University Rotterdam, Rotterdam, The Netherlands  
-MSc in Econometrics & Management Science  
+2016 - 2018  
 Specialization in Business Analytics & Quantitative Marketing  
 
-**2013 - 2016**  
+**BSc in Econometrics & Operations Research**  
 Erasmus University Rotterdam, Rotterdam, The Netherlands  
-BSc in Econometrics & Operations Research  
+2013 - 2016  
 Major in Business Analytics & Quantitative Marketing  
 
 ## Contact
