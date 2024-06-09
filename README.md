@@ -18,7 +18,7 @@ I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from
 
 ## Publications
 
-- Budel, G., M. Kitsak, R. Aldecoa, K. Zuev, and D. Krioukov (2024). [Random hyperbolic graphs in d+1 dimensions](https://doi.org/10.1103/PhysRevE.109.054131). *Physical Review E* **109**(5), 054131.
+- Budel, G., M. Kitsak, R. Aldecoa, K. Zuev, and D. Krioukov (2024). [Random hyperbolic graphs in *d* + 1 dimensions](https://doi.org/10.1103/PhysRevE.109.054131). *Physical Review E* **109**(5), 054131.
 - Budel, G., F. Frasincar, and D. Boekestijn (2024). [DBHC: Discrete Bayesian HMM Clustering](https://doi.org/10.1007/s13042-024-02102-w). *International Journal of Machine Learning and Cybernetics*, 1-16.
 - Budel, G., Y. Jin, P. Van Mieghem, and M. Kitsak (2023). [Topological properties and organizing principles of semantic networks](https://doi.org/10.1038/s41598-023-37294-8). *Nature Scientific Reports* **13**(1), 11728.
 - Budel, G. and P. Van Mieghem (2020). [Detecting the number of clusters in a network](https://doi.org/10.1093/comnet/cnaa047). *Journal of Complex Networks* **8**(6), cnaa047.
@@ -46,9 +46,9 @@ I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from
 
 ## Education
 
-**2019 - 2024**  
+**Ph.D. in Artificial Intelligence and Network Science**  
 Delft University of Technology, Network Architecture and Services, Delft, The Netherlands  
-Ph.D. in Artificial Intelligence and Network Science  
+2019 - 2024
 In collaboration with KPN in the NExTWORKx program  
 
 **2018 - 2019**  
