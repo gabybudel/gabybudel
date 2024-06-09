@@ -48,7 +48,7 @@ I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from
 
 **Ph.D. in Artificial Intelligence and Network Science**  
 Delft University of Technology, Network Architecture and Services, Delft, The Netherlands  
-2019 - 2024
+2019 - 2024  
 In collaboration with KPN in the NExTWORKx program  
 
 **2018 - 2019**  
