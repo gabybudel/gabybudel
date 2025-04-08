@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Gabriel Budel
 
-I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from TU Delft. My Ph.D. research focuses on embeddings of complex networks and the roles of complementarity and similarity in these embeddings, with applications to semantic networks and NLP. My research interests include data science, artificial intelligence, machine learning, hyperbolic graph embeddings, deep learning, and NLP.
+I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from TU Delft. My Ph.D. research focuses on embeddings of complex networks and the roles of complementarity and similarity in these embeddings, with applications to semantic networks and NLP. My research interests include artificial intelligence, machine learning, causal inference, hyperbolic graph embeddings, deep learning, and NLP.
 
 ## Publications
 
@@ -26,8 +26,8 @@ I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from
 
 ## Working Papers
 
-- Budel, G. and M. Kitsak (2024). [Complementarity in Complex Networks](https://arxiv.org/abs/2003.06665). *arXiv preprint arXiv:2003.06665*.
-- Budel, G., P. Van Mieghem, and M. Kitsak (2024). Complementarity Random Graph Model.
+- Budel, G. and M. Kitsak (2025). [Complementarity in Complex Networks](https://arxiv.org/abs/2003.06665). *arXiv preprint arXiv:2003.06665*.
+- Budel, G., P. Van Mieghem, and M. Kitsak (2025). Complementarity Random Graph Model.
 
 ## Ph.D. Thesis
 - Budel, G.J.A. (2024). [Complementarity and Similarity in Complex Networks](https://doi.org/10.4233/uuid:404db306-a85f-46ac-80d0-ba2a4f24a26e).
@@ -40,6 +40,7 @@ I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from
 
 ## Software
 
+- Budel, G. and M. Kitsak (2025), Complementarity-based HyperLink Embedder, Bitbucket: [https://bitbucket.org/gbudel/complementarity_hyperlink/](https://bitbucket.org/gbudel/complementarity_hyperlink/).
 - Budel, G. and M. Kitsak (2022), RHG Generator, Bitbucket: [https://bitbucket.org/gbudel/rhg-generator/](https://bitbucket.org/gbudel/rhg-generator/).
 - Budel, G. and F. Frasincar (2018), DBHC package, CRAN: [https://cran.r-project.org/web/packages/DBHC/](https://cran.r-project.org/web/packages/DBHC/).
 - Budel, G. (2018), FX Trading NEAT, GitHub: [https://github.com/gabybudel/FXTradingNEAT](https://github.com/gabybudel/FXTradingNEAT).
