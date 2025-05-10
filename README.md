@@ -27,7 +27,7 @@ I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from
 ## Working Papers
 
 - Budel, G. and M. Kitsak (2025). [Complementarity in Complex Networks](https://arxiv.org/abs/2003.06665). *arXiv preprint arXiv:2003.06665*.
-- Budel, G., P. Van Mieghem, and M. Kitsak (2025). Complementarity Random Graph Model.
+- Tjepkema, M., G. Budel, and R.E. Kooij (2025). With a Little Help From The Beatles: The Influence of Beatles Song Titles in Scientific Publications.
 
 ## Ph.D. Thesis
 - Budel, G.J.A. (2024). [Complementarity and Similarity in Complex Networks](https://doi.org/10.4233/uuid:404db306-a85f-46ac-80d0-ba2a4f24a26e).
