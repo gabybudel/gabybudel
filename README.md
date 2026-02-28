@@ -77,14 +77,14 @@ Predicting User Flight Preferences in an Airline E-Shop, full paper at the 18th 
 <br>Fudan University, Shanghai, China
 <br>2018 – 2019
 
-**MSc in Finance & Investments**
+**M.Sc. in Finance & Investments**
 <br>Rotterdam School of Management, Rotterdam, The Netherlands
 <br>2017 – 2018
 
-**MSc in Econometrics & Management Science**
+**M.Sc. in Econometrics & Management Science**
 <br>Erasmus University Rotterdam, Rotterdam, The Netherlands
 <br>2016 – 2018 &nbsp;|&nbsp; Specialization in Business Analytics & Quantitative Marketing
 
-**BSc in Econometrics & Operations Research**
+**B.Sc. in Econometrics & Operations Research**
 <br>Erasmus University Rotterdam, Rotterdam, The Netherlands
 <br>2013 – 2016 &nbsp;|&nbsp; Major in Business Analytics & Quantitative Marketing
