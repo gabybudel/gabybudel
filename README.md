@@ -33,7 +33,7 @@ Budel, G., L. Hoogenboom, W. Kastrop, N. Reniers, and F. Frasincar (2018). [Pred
 
 Budel, G. and M. Kitsak (2026). [Complementarity in Complex Networks](https://arxiv.org/abs/2003.06665). *arXiv preprint arXiv:2003.06665*.
 
-Tjepkema, M., G. Budel, and R.E. Kooij (2026). With a Little Help From The Beatles: The Influence of Beatles Song Titles in Scientific Publications.
+Tjepkema, M., G. Budel, and R.E. Kooij (2026). How science gets by with a little help from the Beatles: Detecting cultural wordplay in scientific literature using large language models.
 
 ### Ph.D. Thesis
 
