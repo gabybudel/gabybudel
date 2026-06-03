@@ -4,15 +4,19 @@
 
 #### Applied Scientist · Ph.D. in AI and Network Science
 
-<a href="https://gabybudel.github.io">
-  <img src="https://img.shields.io/badge/Visit%20my%20website-gabybudel.github.io%20%E2%86%92-2e5d8a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my website: gabybudel.github.io">
-</a>
+<p>
+  <a href="https://gabybudel.github.io">
+    <img src="https://img.shields.io/badge/Visit%20my%20website-gabybudel.github.io%20%E2%86%92-2e5d8a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my website: gabybudel.github.io">
+  </a>
+</p>
 
-<sub>
-<a href="mailto:gjabudel@gmail.com">Email</a> &nbsp;&middot;&nbsp;
-<a href="https://scholar.google.com/citations?user=YcPZvyUAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;&middot;&nbsp;
-<a href="https://orcid.org/0000-0003-0622-6492">ORCID</a>
-</sub>
+<p>
+  <sub>
+    <a href="mailto:gjabudel@gmail.com">Email</a> &nbsp;&middot;&nbsp;
+    <a href="https://scholar.google.com/citations?user=YcPZvyUAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;&middot;&nbsp;
+    <a href="https://orcid.org/0000-0003-0622-6492">ORCID</a>
+  </sub>
+</p>
 
 </div>
 
