@@ -2,18 +2,23 @@
 
 # Gabriel Budel
 
-<p>
+#### Applied Scientist · Ph.D. in AI and Network Science
+
+<a href="https://gabybudel.github.io">
+  <img src="https://img.shields.io/badge/Visit%20my%20website-gabybudel.github.io%20%E2%86%92-2e5d8a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my website: gabybudel.github.io">
+</a>
+
+<sub>
 <a href="mailto:gjabudel@gmail.com">Email</a> &nbsp;&middot;&nbsp;
 <a href="https://scholar.google.com/citations?user=YcPZvyUAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;&middot;&nbsp;
-<a href="https://orcid.org/0000-0003-0622-6492">ORCID</a> &nbsp;&middot;&nbsp;
-<a href="https://gabybudel.github.io">Website</a>
-</p>
+<a href="https://orcid.org/0000-0003-0622-6492">ORCID</a>
+</sub>
 
 </div>
 
 ---
 
-I am a recent Ph.D. graduate in Artificial Intelligence and Network Science from TU Delft. My Ph.D. research focuses on embeddings of complex networks and the roles of complementarity and similarity in these embeddings, with applications to semantic networks and NLP. My research interests include artificial intelligence, machine learning, causal inference, hyperbolic graph embeddings, deep learning, and NLP.
+I am an Applied Scientist at Uber with a Ph.D. in Artificial Intelligence and Network Science from TU Delft. My Ph.D. research focused on embeddings of complex networks and the roles of complementarity and similarity in these embeddings, with applications to semantic networks and NLP. My research interests include artificial intelligence, machine learning, causal inference, hyperbolic graph embeddings, deep learning, and NLP.
 
 ---
 
